@@ -1,0 +1,11 @@
+D:\Avancerad Webb asp.net\NewsSite\AvanceradWebbutvStudent\NewsSite\NewsSite\bin\Release\netcoreapp2.0\NewsSite.deps.json
+D:\Avancerad Webb asp.net\NewsSite\AvanceradWebbutvStudent\NewsSite\NewsSite\bin\Release\netcoreapp2.0\NewsSite.runtimeconfig.json
+D:\Avancerad Webb asp.net\NewsSite\AvanceradWebbutvStudent\NewsSite\NewsSite\bin\Release\netcoreapp2.0\NewsSite.runtimeconfig.dev.json
+D:\Avancerad Webb asp.net\NewsSite\AvanceradWebbutvStudent\NewsSite\NewsSite\bin\Release\netcoreapp2.0\NewsSite.dll
+D:\Avancerad Webb asp.net\NewsSite\AvanceradWebbutvStudent\NewsSite\NewsSite\bin\Release\netcoreapp2.0\NewsSite.pdb
+D:\Avancerad Webb asp.net\NewsSite\AvanceradWebbutvStudent\NewsSite\NewsSite\obj\Release\netcoreapp2.0\NewsSite.csprojResolveAssemblyReference.cache
+D:\Avancerad Webb asp.net\NewsSite\AvanceradWebbutvStudent\NewsSite\NewsSite\obj\Release\netcoreapp2.0\NewsSite.csproj.CoreCompileInputs.cache
+D:\Avancerad Webb asp.net\NewsSite\AvanceradWebbutvStudent\NewsSite\NewsSite\obj\Release\netcoreapp2.0\NewsSite.AssemblyInfoInputs.cache
+D:\Avancerad Webb asp.net\NewsSite\AvanceradWebbutvStudent\NewsSite\NewsSite\obj\Release\netcoreapp2.0\NewsSite.AssemblyInfo.cs
+D:\Avancerad Webb asp.net\NewsSite\AvanceradWebbutvStudent\NewsSite\NewsSite\obj\Release\netcoreapp2.0\NewsSite.dll
+D:\Avancerad Webb asp.net\NewsSite\AvanceradWebbutvStudent\NewsSite\NewsSite\obj\Release\netcoreapp2.0\NewsSite.pdb
